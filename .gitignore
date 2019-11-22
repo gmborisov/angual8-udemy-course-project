@@ -45,4 +45,4 @@ speed-measure-plugin*.json
 # System Files
 .DS_Store
 Thumbs.db
-/angular8-app/node_modules/
+/angular8-app/node_modules/*
